@@ -23,7 +23,7 @@ typeSymb.onclick = (event) => {
 }
  outputStr.onkeypress = (event) => symbolOutputString.innerText = ''
 ```
-## Additional 1
+## Additional 2
 ```js
 let container2 = additonalTwo.appendChild(document.createElement('p'))
 container2.style = `color: magenta;`
